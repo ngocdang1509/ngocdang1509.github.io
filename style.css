@@ -80,7 +80,7 @@ img, figure {
 	*zoom: 1;
 	text-align: center;
 	text-decoration: none;
-	font-family: 'Lato', sans-serif;
+	font-family: 'EB Garamond', serif;
 	font-weight: normal !important;
 	font-size: 17px !important;
 	letter-spacing: 5px;
@@ -107,7 +107,7 @@ img, figure {
     margin-bottom: 0.5em;
     text-align: center;
     color: white;
-    font-family: 'Lato', sans-serif;
+    font-family: 'EB Garamond', serif;
     font-size: 100px;
     font-weight: 900;
 }
@@ -123,11 +123,11 @@ img, figure {
 	font-size: 60px;
 }
 .content {
-	font-family: 'Lato', sans-serif;
+	font-family: 'EB Garamond', serif;
 	font-size: 17px;
 }
 .header {
-	font-family: 'Quicksand', sans-serif;
+	font-family: 'Pattaya', sans-serif;
 	font-weight: 900;
 	letter-spacing: 0px;
 }
@@ -197,14 +197,14 @@ img, figure {
 }
 .edu-school {
 	font-size: 17px;
-	font-family: 'Lato', sans-serif;
+	font-family: 'EB Garamond', serif;
 	font-weight: bold;
 	background-color: #ccc;
 	padding: 5px;
 }
 .edu-content {
 	font-size: 15px;
-	font-family: 'Lato', sans-serif;
+	font-family: 'EB Garamond', serif;
 	font-weight: normal;
 	
 }
@@ -261,7 +261,7 @@ img, figure {
 	text-align: left;
 	outline: none;
 	font-size: 20px;
-	font-family: 'Lato', sans-serif;
+	font-family: 'EB Garamond', serif;
 	font-weight: bold;
 }
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
