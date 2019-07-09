@@ -411,9 +411,9 @@ img, figure {
 .front1 {
 	background-image: url(https://i.ibb.co/FHH662x/author.jpg);
 	background-attachment: fixed;
-    background-position: right;
+    background-position: top;
     background-repeat: no-repeat;
-    background-size: 30%;
+    background-size: 50%;
 }
 .front2 {
 	background-image: url(https://i.ibb.co/bvYmfvp/Singing.jpg);
