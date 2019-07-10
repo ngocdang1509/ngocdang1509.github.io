@@ -424,7 +424,8 @@ img, figure {
 }
 .front3 {
 	background-image: url(http://iktisatoyunculari.com/wp-content/uploads/2015/09/Movie-Theater-Curtains-Wallpaper-1.jpg);
-    background-position: top right;
+	background-attachment: fixed;
+    background-position: center;
     background-repeat: no-repeat;
     background-size: 80%;
 }
