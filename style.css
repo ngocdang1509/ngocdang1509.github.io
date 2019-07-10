@@ -425,7 +425,7 @@ img, figure {
 .front3 {
 	background-image: url(https://blogs.lse.ac.uk/management/files/2016/08/1246542-e1472572345724.jpg);
 	background-attachment: fixed;
-    background-position: top right;
+    background-position: center;
     background-repeat: no-repeat;
     background-size: 60%;
 }
